@@ -42,8 +42,14 @@ header{
     font-weight: 500;
 }
 
+
 .menu-list li.active, .menu-list li:hover{
     color: #7661ac;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #777;
 }
 
 
