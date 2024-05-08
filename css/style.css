@@ -5,6 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/*Navbar*/
 header{
     position: absolute;
     top: 0;
@@ -42,7 +43,6 @@ header{
     font-weight: 500;
 }
 
-
 .menu-list li.active, .menu-list li:hover{
     color: #7661ac;
 }
@@ -52,8 +52,7 @@ nav ul li a{
     color: #777;
 }
 
-
-
+/*Body*/
 body{
     min-height: 100vh;
     width: 100%;
@@ -228,6 +227,7 @@ p, li{
     font-size: 0.85em;
     line-height: 22px;
     cursor: pointer;
+    color: #fcfcfc;
 }
 
 ul{
@@ -235,7 +235,7 @@ ul{
 }
 
 li:hover{
-    color: #4824a0;
+    color: #ad93f0;
 }
 
 .foot-2{
